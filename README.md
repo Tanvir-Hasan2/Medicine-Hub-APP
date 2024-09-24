@@ -1,6 +1,10 @@
 # medicine_hub
-
 A new Flutter project.
+#run Process
+#install android studio 
+#add flutter and dart sdk
+#add virtual machine
+#run the project
 
 ## Getting Started
 
